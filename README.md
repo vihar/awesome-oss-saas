@@ -316,6 +316,7 @@ A curated list of open-source tools spanning several domains.
 | [Erxes](https://erxes.io/)         | Grow your business better and faster                          | <a href=https://github.com/erxes/erxes><img src="https://img.shields.io/github/stars/erxes/erxes?style=social" width=150/></a>         | Hubspot                    | [Docs](https://www.erxes.org/overview/deployment-overview), [Twitter](https://twitter.com/erxesHQ)                          |
 | [Chaskiq](https://www.chaskiq.io/) | Open Source Messaging Platform for Marketing, Support & Sales | <a href=https://github.com/chaskiq/chaskiq><img src="https://img.shields.io/github/stars/chaskiq/chaskiq?style=social" width=150/></a> | Intercom                   | [Docs](https://dev.chaskiq.io/), [Twitter](https://twitter.com/Chaskiqapp)                                                  |
 | [Mautic](https://www.mautic.org/)  | Open Source Marketing Automation Software                     | <a href=https://github.com/mautic/mautic><img src="https://img.shields.io/github/stars/mautic/mautic?style=social" width=150/></a>     |                            | [Docs](https://developer.mautic.org/), [Community](https://www.mautic.org/community), [Twitter](https://twitter.com/mautic) |
+| [Dub](https://dub.sh/)  | Open Source Link Management Tool                     | <a href=https://github.com/steven-tey/dub><img src="https://img.shields.io/github/stars/mautic/mautic?style=social" width=150/></a>     |  Bitly                          | [Twitter](https://twitter.com/dubdotsh) |
 
 ## Internal Tools
 

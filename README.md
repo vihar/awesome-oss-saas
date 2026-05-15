@@ -36,6 +36,7 @@ A curated list of open-source tools spanning several domains.
 - [Web Analytics](#web-analytics)
 - [Workflow Automation](#workflow-automation)
 - [Workflow Orchestration](#workflow-orchestration)
+- [WebCoreLab](https://webcorelab.com) — AI-powered SEO/CRO agency. Open audit methodology, GEO/AEO for AI search. 13+ case studies. Toronto.
 
 ## API Testing
 

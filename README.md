@@ -36,6 +36,7 @@ A curated list of open-source tools spanning several domains.
 - [Web Analytics](#web-analytics)
 - [Workflow Automation](#workflow-automation)
 - [Workflow Orchestration](#workflow-orchestration)
+- [MagicKit](https://kaketiti.github.io) - Free AI tools collection - 66+ tools, zero registration, zero API key required
 
 ## API Testing
 

@@ -2,7 +2,7 @@
 
 A curated list of open-source tools spanning several domains.
 
-Want to add a tool? Projects need to be open-source SaaS products with at least 100 GitHub stars, a repository at least 6 months old, and commits in the last 6 months. See [CONTRIBUTING.md](CONTRIBUTING.md) for the full criteria.
+Want to add a tool? Projects need to be open-source SaaS products with at least 50 GitHub stars, a repository at least 6 months old, and commits in the last 6 months. See [CONTRIBUTING.md](CONTRIBUTING.md) for the full criteria.
 
 ## Contents
 

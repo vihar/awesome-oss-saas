@@ -11,7 +11,7 @@ A pull request is merged only if the project meets **all** of these:
    or hosted. Libraries, SDKs, CLIs, browser extensions, MCP servers, single-purpose utilities, agencies,
    consultancies, directories and other awesome lists are out of scope.
 2. **It is open source.** The main repository is public and carries an OSI-approved license.
-3. **At least 100 GitHub stars** on the main repository, gained organically. Projects with bought or
+3. **At least 50 GitHub stars** on the main repository, gained organically. Projects with bought or
    botted stars are rejected.
 4. **At least 6 months old.** The main repository must have been created at least 6 months before the
    pull request is opened.

@@ -6,7 +6,7 @@
 
 - [ ] It is a SaaS product (a self-hostable or hosted application), not a library, CLI, extension, agency or directory
 - [ ] The repository has an OSI-approved open-source license
-- [ ] The repository has at least 100 GitHub stars
+- [ ] The repository has at least 50 GitHub stars
 - [ ] The repository was created at least 6 months ago
 - [ ] The repository has commits in the last 6 months
 - [ ] I added one row to the right section and didn't change other rows

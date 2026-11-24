@@ -680,6 +680,7 @@ Want to add a tool? Projects need to be open-source SaaS products with at least 
 | [Linkwarden](https://linkwarden.app) | Collaborative bookmark manager that archives and annotates saved links | <a href=https://github.com/linkwarden/linkwarden><img src="https://img.shields.io/github/stars/linkwarden/linkwarden?style=social" width=150/></a> | Pocket, Raindrop.io | [Docs](https://docs.linkwarden.app), [Community](https://discord.com/invite/CtuYV47nuJ), [Twitter](https://twitter.com/LinkwardenHQ) |
 | [Notesnook](https://notesnook.com) | End-to-end encrypted note-taking app | <a href=https://github.com/streetwriters/notesnook><img src="https://img.shields.io/github/stars/streetwriters/notesnook?style=social" width=150/></a> | Evernote | [Community](https://discord.com/invite/zQBK97EE22) |
 | [SilverBullet](https://silverbullet.md) | Markdown knowledge base for notes and team wikis in the browser | <a href=https://github.com/silverbulletmd/silverbullet><img src="https://img.shields.io/github/stars/silverbulletmd/silverbullet?style=social" width=150/></a> | Notion, Obsidian | [Docs](https://docs.silverbullet.md) |
+| [AFFiNE](https://affine.pro) | Open-source, local-first knowledge base for docs, whiteboards, and databases | <a href=https://github.com/toeverything/AFFiNE><img src="https://img.shields.io/github/stars/toeverything/AFFiNE?style=social" width=150/></a> | Notion, Obsidian | [Docs](https://docs.affine.pro) |
 
 ## Office Suite and Collaboration
 
